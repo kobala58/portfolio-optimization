@@ -1,0 +1,4 @@
+[2023-05-16 10:02:19,970][comm_open:234] No such comm target registered: jupyter.widget.control
+[2023-05-16 10:02:19,979][get_comm:212] No such comm: fce5b961-8b8d-48e7-93b8-dacb9555370f
+[2023-05-16 11:51:00,272][comm_open:234] No such comm target registered: jupyter.widget.control
+[2023-05-16 11:51:00,285][get_comm:212] No such comm: 54f0eab7-53b6-4073-b3d0-31d0090b32df
